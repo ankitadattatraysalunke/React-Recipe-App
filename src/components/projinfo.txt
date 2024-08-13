@@ -1,0 +1,2 @@
+mealdb for api
+react slick slider for slider =autoplay and pause on hover slider
